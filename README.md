@@ -22,7 +22,7 @@ Alvin is a tool for viewing protein and nucleotide multiple sequence alignments 
 
 ### Screenshots
 
-![A screenshot of Alvin](images/screeshot1.png)
+![A screenshot of Alvin](images/screenshot1.png?raw=true)
 
 
 ### Supported file formats
