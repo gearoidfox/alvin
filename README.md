@@ -11,9 +11,6 @@ Alvin is a tool for viewing protein and nucleotide multiple sequence alignments 
 
  - [Biopython](biopython.org)
 
-### Supported file formats
-
-Alvin uses BioPython to read alignment files, so every format supported by BioPython is supported by Alvin, including FASTA, Stockholm, CLUSTAL, Phylip, etc. It will try to guess both the file format and whether the alignment is of nucleotide or amino acid sequences. You can override these guesses with command line flags.
 
 ### Interface
 
@@ -22,6 +19,15 @@ Alvin uses BioPython to read alignment files, so every format supported by BioPy
  - Jump to the top/bottom/left/right with PageUp/PageDown/Home/End or gg/G/^/$
  - Adjust the width of sequence labels with +/-. Maximise with = and minimise with 0.
  - Change colour schemes with 1/2/3/4/5.
+
+### Screenshots
+
+![A screenshot of Alvin](images/screeshot1.png)
+
+
+### Supported file formats
+
+Alvin uses BioPython to read alignment files, so every format supported by BioPython is supported by Alvin, including FASTA, Stockholm, CLUSTAL, Phylip, etc. It will try to guess both the file format and whether the alignment is of nucleotide or amino acid sequences. You can override these guesses with command line flags.
 
 ### Terminal compatibility
 
